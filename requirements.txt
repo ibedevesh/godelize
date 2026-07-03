@@ -1,0 +1,5 @@
+# Core library (prove/disprove/certify) needs NO python packages — only external
+# `lean` (via elan) and `z3` on PATH.
+# These are for the optional AI-facing pieces:
+anthropic>=0.40        # eval.py (LLM-vs-engine) and autoformalize.py (AI drafts the rulebook)
+python-dotenv>=1.0     # loading ANTHROPIC_API_KEY from a .env file
