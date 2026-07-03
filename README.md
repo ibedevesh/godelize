@@ -7,7 +7,6 @@ messy ones and let an AI draft them — and get a decision gate that the Lean **
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![proof](https://img.shields.io/badge/proof-Lean%204-orange)
 ![solver](https://img.shields.io/badge/solver-Z3-4c1)
-![no](https://img.shields.io/badge/LLM_in_trust_path-none-critical)
 
 ---
 
